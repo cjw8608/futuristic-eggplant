@@ -50,7 +50,7 @@ sections:
     align: center
     background_color: secondary
   - type: features_section
-    title: Test
+    title: This is Title!!!
     features:
       - content: >-
           Event is a responsive theme for online events, meetups, conferences
