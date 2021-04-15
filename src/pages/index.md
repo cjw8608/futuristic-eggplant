@@ -56,6 +56,7 @@ sections:
           Event is a responsive theme for online events, meetups, conferences
           and webinars from Stackbit.
         align: center
+        title: Test
     feature_padding_vert: medium
     align: center
     padding_top: medium
