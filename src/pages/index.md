@@ -49,6 +49,7 @@ sections:
     enable_cards: false
     align: center
     background_color: secondary
+    title: Testadsfadf
   - type: features_section
     title: This is Title!!!
     features:
